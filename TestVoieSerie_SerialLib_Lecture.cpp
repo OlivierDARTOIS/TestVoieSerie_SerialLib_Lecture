@@ -1,5 +1,5 @@
 // Exemple d'utilisation de la voie série avec serialib
-// Ecriture sur un une voie série
+// Lecture sur un une voie série
 // O. Dartois - Janvier 2021
 
 #include <iostream>
